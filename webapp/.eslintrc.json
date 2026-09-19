@@ -4,6 +4,8 @@
     "plugin:@mattermost/react"
   ],
   "rules": {
-    "header/header": "off"
+    "header/header": "off",
+    "no-alert": "off",
+    "no-console": "off"
   }
 }
